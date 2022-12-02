@@ -1,5 +1,4 @@
 print('Bem vindo ao Banco JEPS')
-import math
 nome = str(input('Qual o seu nome? '))
 valorc = float(input('Qual valor da casa que deseja adquirir? '))
 salario = float(input('Qual o seu salário? '))
